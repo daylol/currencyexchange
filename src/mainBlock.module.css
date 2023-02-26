@@ -1,0 +1,18 @@
+.block {
+    text-align: center;
+}
+
+input {
+    margin: 0 10px 10px 0;
+    font-size: 18px;
+    padding: 5px;
+}
+
+input:focus {
+    outline: none;
+}
+
+select {
+    font-size: 20px;
+    padding: 3px;
+}
